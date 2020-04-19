@@ -1,3 +1,3 @@
 # Candidatura SF Academy
 
-![Architettura WebApp](./schema.png)
+![Architettura WebApp](https://pbs.twimg.com/media/EV9gCc7WAAUtdEi?format=jpg&name=large)
