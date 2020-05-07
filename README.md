@@ -6,3 +6,5 @@ Markup : - [ ] databse su RDS
          - [ ] api su EC2
          - [ ] frontend 
          - [x] creato un container Docker
+ Markup : - [ ] An uncompleted task
+          - [x] A completed task
