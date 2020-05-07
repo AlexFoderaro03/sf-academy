@@ -2,9 +2,7 @@
 
 ![Architettura WebApp](https://pbs.twimg.com/media/EV9gCc7WAAUtdEi?format=jpg&name=large)
 
-Markup : - [ ] databse su RDS
-         - [ ] api su EC2
-         - [ ] frontend 
-         - [x] creato un container Docker
- Markup : - [ ] An uncompleted task
-          - [x] A completed task
+- [ ] databse su RDS
+- [ ] api su EC2
+- [ ] frontend 
+- [x] creato un container Docker
